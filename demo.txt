@@ -1,0 +1,4 @@
+This is my demo
+•	Untracked: Files that Git is not currently tracking.
+•	Modified: Files that have been changed since the last commit.
+•	Staged: Files that have been added to the staging area (using git add), ready to be committed.
