@@ -4,3 +4,5 @@ This is my demo
 •	Staged: Files that have been added to the staging area (using git add), ready to be committed.
 
 Added start making changes text
+
+Added Changes from Github.com
